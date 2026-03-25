@@ -1,7 +1,0 @@
-/home/walterker/rc_soccer/build/CMakeFiles/rcsc_coach.dir
-/home/walterker/rc_soccer/build/CMakeFiles/edit_cache.dir
-/home/walterker/rc_soccer/build/CMakeFiles/rebuild_cache.dir
-/home/walterker/rc_soccer/build/CMakeFiles/list_install_components.dir
-/home/walterker/rc_soccer/build/CMakeFiles/install.dir
-/home/walterker/rc_soccer/build/CMakeFiles/install/local.dir
-/home/walterker/rc_soccer/build/CMakeFiles/install/strip.dir
