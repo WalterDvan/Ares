@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_agent.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_agent.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_agent.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_agent.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_audio_sensor.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_audio_sensor.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_audio_sensor.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_audio_sensor.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_ball_object.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_ball_object.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_ball_object.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_ball_object.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_command.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_command.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_command.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_command.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_config.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_config.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_config.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_config.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_debug_client.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_debug_client.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_debug_client.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_debug_client.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_intercept_predictor.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_intercept_predictor.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_intercept_predictor.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_intercept_predictor.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_player_object.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_player_object.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_player_object.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_player_object.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_visual_sensor.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_visual_sensor.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_visual_sensor.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_visual_sensor.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_world_model.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_world_model.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_world_model.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_world_model.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/coach_world_state.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/coach_world_state.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/coach_world_state.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/coach_world_state.o"
+},
+{
+  "directory": "/home/walterker/rc_soccer/build",
+  "command": "/usr/bin/g++  -I/home/walterker/rc_soccer/librcsc/rcsc/coach -I/home/walterker/rc_soccer/build -g -o CMakeFiles/rcsc_coach.dir/player_type_analyzer.o -c /home/walterker/rc_soccer/librcsc/rcsc/coach/player_type_analyzer.cpp",
+  "file": "/home/walterker/rc_soccer/librcsc/rcsc/coach/player_type_analyzer.cpp",
+  "output": "CMakeFiles/rcsc_coach.dir/player_type_analyzer.o"
+}
+]
