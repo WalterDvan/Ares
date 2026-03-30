@@ -1,0 +1,1 @@
+/usr/bin/c++ -W -Wall -O3 -DNDEBUG CMakeFiles/sample_trainer.dir/sample_trainer.cpp.o CMakeFiles/sample_trainer.dir/main_trainer.cpp.o -o ../../bin/sample_trainer  -Wl,-rpath,/usr/local/lib /usr/local/lib/librcsc.so /usr/lib/x86_64-linux-gnu/libboost_system.so.1.83.0 /usr/lib/x86_64-linux-gnu/libz.so 
