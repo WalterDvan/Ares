@@ -1,0 +1,65 @@
+rcssserver-19.0.0
+
+Copyright (C) 1995, 1996, 1997, 1998, 1999 Electrotechnical Laboratory.
+2000 - RoboCup Soccer Simulator Maintenance Group.
+
+Simulator Random Seed: 1774637095
+CSVSaver: Ready
+STDOutSaver: Ready
+Using simulator's random seed as Hetero Player Seed: 1774637095
+wind factor: rand: 0.000000, vector: (0.000000, 0.000000)
+
+Hit CTRL-C to exit
+Waiting for players to connect
+A new (v18) player (HELIOS_base 1) connected.
+A new (v18) player (HELIOS_base 2) connected.
+A new (v18) player (HELIOS_base 3) connected.
+A new (v18) player (HELIOS_base 4) connected.
+A new (v18) player (HELIOS_base 5) connected.
+A new (v18) player (HELIOS_base 6) connected.
+A new (v18) player (HELIOS_base 7) connected.
+A new (v18) player (HELIOS_base 8) connected.
+A new (v18) player (HELIOS_base 9) connected.
+A new (v18) player (HELIOS_base 10) connected.
+A new (v18) player (HELIOS_base 11) connected.
+rcssserver changes (player HELIOS_base 2) to type 1
+rcssserver changes (player HELIOS_base 3) to type 2
+rcssserver changes (player HELIOS_base 4) to type 3
+rcssserver changes (player HELIOS_base 5) to type 4
+rcssserver changes (player HELIOS_base 6) to type 5
+rcssserver changes (player HELIOS_base 7) to type 6
+rcssserver changes (player HELIOS_base 8) to type 7
+rcssserver changes (player HELIOS_base 9) to type 8
+rcssserver changes (player HELIOS_base 10) to type 9
+rcssserver changes (player HELIOS_base 11) to type 10
+Kick_off_left
+Waiting to kick off
+Kick_off_right
+Waiting after end of match
+A player disconnected : (HELIOS_base 10)
+A player disconnected : (HELIOS_base 3)
+A player disconnected : (HELIOS_base 5)
+A player disconnected : (HELIOS_base 8)
+A player disconnected : (HELIOS_base 6)
+A player disconnected : (HELIOS_base 2)
+A player disconnected : (HELIOS_base 1)
+A player disconnected : (HELIOS_base 11)
+A player disconnected : (HELIOS_base 4)
+A player disconnected : (HELIOS_base 7)
+A player disconnected : (HELIOS_base 9)
+
+Game Over. Exiting...
+
+Saving Results:
+	CSVSaver: saving...
+	CSVSaver: ...disabled
+	STDOutSaver: saving...
+
+Game Results:
+	2026-03-28 02:44:55
+	'HELIOS_base' vs null
+	Score: 30 - 0
+ 
+	STDOutSaver: ...saved
+
+Saving Results Complete
